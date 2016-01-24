@@ -36,7 +36,7 @@
 
 ### What You Need?
 
-##### Since I am just providing GUI for the command line applications which are created by other developers, so you need:
+##### Since I am just providing GUI for the command line applications which are created by other devs, so you need:
 
 > FFmpeg (Static 32-bit Build) (default - for encoding to uncompressed wav) - ffmpeg.zeranoe.com/builds/
 
