@@ -64,4 +64,4 @@ AND
 
 > Download "YAAE - Yet Another Audio Encoder - GUI Frontend Audio Encoder For AAC And Vorbis" from here.
 
-> Extract and put all the files in one place and simply run YAAC.exe to start the GUI FrontEnd? for AAC and Vorbis encoder. 
+> Extract and put all the files in one place and simply run YAAC.exe to start the GUI FrontEnd for AAC and Vorbis encoder. 
