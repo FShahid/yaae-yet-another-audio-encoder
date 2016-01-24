@@ -1,4 +1,4 @@
-# YAAC - Yet Another Audio Encoder
+# YAAE - Yet Another Audio Encoder
 
 ## A GUI Frontend for Commandline ffmpeg with Neroaacenc & ffmpeg with Vorbis
 
