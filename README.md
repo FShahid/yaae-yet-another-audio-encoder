@@ -1,42 +1,42 @@
 # YAAC - Yet Another Audio Encoder
 
-A GUI Frontend for Commandline ffmpeg with Neroaacenc & ffmpeg with Vorbis
+## A GUI Frontend for Commandline ffmpeg with Neroaacenc & ffmpeg with Vorbis
 
-Features:
+### Features:
 
-> Supports Encoding to AAC LC, HE, HEv2 using Neroaacenc (not included, need to download it separately)
+* Supports Encoding to AAC LC, HE, HEv2 using Neroaacenc (not included, need to download it separately)
 
-> Supports Encoding to auToV Vorbis using venc (not included, need to download it separately)
+* Supports Encoding to auToV Vorbis using venc (not included, need to download it separately)
 
-> Supports Muxing of encoded audio tracks with source file into a mkv container thanks to MKVToolNix (not included)
+* Supports Muxing of encoded audio tracks with source file into a mkv container thanks to MKVToolNix (not included)
 
-> Supports source audio files of upto 8 channels (FLAC encode possible upto 8 channels via eac3to (not included))
+* Supports source audio files of upto 8 channels (FLAC encode possible upto 8 channels via eac3to (not included))
 
-> Supports audio normalization (optional) via eac3to or SoX decoders (not included, need to download it separately)
+* Supports audio normalization (optional) via eac3to or SoX decoders (not included, need to download it separately)
 
-> Ability to fetch mkv container info with the help of Mediainfo (not included, need to download it separately)
+* Ability to fetch mkv container info with the help of Mediainfo (not included, need to download it separately)
 
-> Multiple processing of files with Drag n Drop support
+* Multiple processing of files with Drag n Drop support
 
-> Multiple audio tracks processing within a source file
+* Multiple audio tracks processing within a source file
 
-> Ability to force AAC to HE or HEv2 if required
+* Ability to force AAC to HE or HEv2 if required
 
-> Quality-bitrate charts for look-up of values
+* Quality-bitrate charts for look-up of values
 
-System Requirements:
+### System Requirements:
 
 > Windows XP SP2 and above
 
 > .NET 2.0 Framework - www.microsoft.com/en-us/download/details.aspx?id=19
 
-Please Note:
+### Please Note:
 
 > This was specifically created for processing Matroska Video (mkv) files but it might work with other file formats as well.
 
-What You Need?
+### What You Need?
 
-> Since I am just providing GUI for the command line applications which are created by other developers, so you need:
+##### Since I am just providing GUI for the command line applications which are created by other developers, so you need:
 
 > FFmpeg (Static 32-bit Build) (default - for encoding to uncompressed wav) - ffmpeg.zeranoe.com/builds/
 
@@ -54,13 +54,13 @@ What You Need?
 
 > (If you already have MKVToolNix installed on your PC by their installer program then you don't need to download this)
 
-OR
+##### OR
 
 > You can download whole compiled package from here, but I still recommend that you download all applications separately.
 
 > An updated archive of required files can be downloaded from here: d-h.st/z8r
 
-AND
+##### AND
 
 > Download "YAAE - Yet Another Audio Encoder - GUI Frontend Audio Encoder For AAC And Vorbis" from here.
 
