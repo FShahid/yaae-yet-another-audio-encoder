@@ -56,7 +56,7 @@
 
 ##### OR
 
-> You can download whole compiled package from here, but I still recommend that you download all applications separately.
+> You can download whole compiled package from here, but I still recommend to download all applications separately.
 
 > An updated archive of required files can be downloaded from here.
 
