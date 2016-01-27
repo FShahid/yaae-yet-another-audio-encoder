@@ -50,7 +50,7 @@
 
 > Mediainfo (32 bit CLI) (for reading source file information) - mediainfo.sourceforge.net/en/Download/Windows
 
-> MKVToolNix (for extrating and muxing tracks) - www.bunkus.org/videotools/mkvtoolnix/downloads.html#windows
+> MKVToolNix (for extracting and muxing tracks) - www.bunkus.org/videotools/mkvtoolnix/downloads.html#windows
 
 > (If you already have MKVToolNix installed on your PC by their installer program then you don't need to download this)
 
