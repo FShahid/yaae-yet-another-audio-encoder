@@ -58,7 +58,7 @@
 
 > You can download whole compiled package from here, but I still recommend that you download all applications separately.
 
-> An updated archive of required files can be downloaded from here: d-h.st/z8r
+> An updated archive of required files can be downloaded from here.
 
 ##### AND
 
